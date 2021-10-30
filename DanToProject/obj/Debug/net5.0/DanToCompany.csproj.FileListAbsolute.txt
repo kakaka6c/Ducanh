@@ -1,0 +1,32 @@
+C:\Users\DELL\Desktop\Task\C#\DanTo\DanToProject\bin\Debug\net5.0\DanToCompany.exe
+C:\Users\DELL\Desktop\Task\C#\DanTo\DanToProject\bin\Debug\net5.0\DanToCompany.deps.json
+C:\Users\DELL\Desktop\Task\C#\DanTo\DanToProject\bin\Debug\net5.0\DanToCompany.runtimeconfig.json
+C:\Users\DELL\Desktop\Task\C#\DanTo\DanToProject\bin\Debug\net5.0\DanToCompany.runtimeconfig.dev.json
+C:\Users\DELL\Desktop\Task\C#\DanTo\DanToProject\bin\Debug\net5.0\DanToCompany.dll
+C:\Users\DELL\Desktop\Task\C#\DanTo\DanToProject\bin\Debug\net5.0\ref\DanToCompany.dll
+C:\Users\DELL\Desktop\Task\C#\DanTo\DanToProject\bin\Debug\net5.0\DanToCompany.pdb
+C:\Users\DELL\Desktop\Task\C#\DanTo\DanToProject\obj\Debug\net5.0\DanToCompany.csproj.AssemblyReference.cache
+C:\Users\DELL\Desktop\Task\C#\DanTo\DanToProject\obj\Debug\net5.0\DanToCompany.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Desktop\Task\C#\DanTo\DanToProject\obj\Debug\net5.0\DanToCompany.AssemblyInfoInputs.cache
+C:\Users\DELL\Desktop\Task\C#\DanTo\DanToProject\obj\Debug\net5.0\DanToCompany.AssemblyInfo.cs
+C:\Users\DELL\Desktop\Task\C#\DanTo\DanToProject\obj\Debug\net5.0\DanToCompany.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\Task\C#\DanTo\DanToProject\obj\Debug\net5.0\DanToCompany.dll
+C:\Users\DELL\Desktop\Task\C#\DanTo\DanToProject\obj\Debug\net5.0\ref\DanToCompany.dll
+C:\Users\DELL\Desktop\Task\C#\DanTo\DanToProject\obj\Debug\net5.0\DanToCompany.pdb
+C:\Users\DELL\Desktop\Task\C#\DanTo\DanToProject\obj\Debug\net5.0\DanToCompany.genruntimeconfig.cache
+D:\C#\asm advance\DanToProject\bin\Debug\net5.0\DanToCompany.exe
+D:\C#\asm advance\DanToProject\bin\Debug\net5.0\DanToCompany.deps.json
+D:\C#\asm advance\DanToProject\bin\Debug\net5.0\DanToCompany.runtimeconfig.json
+D:\C#\asm advance\DanToProject\bin\Debug\net5.0\DanToCompany.runtimeconfig.dev.json
+D:\C#\asm advance\DanToProject\bin\Debug\net5.0\DanToCompany.dll
+D:\C#\asm advance\DanToProject\bin\Debug\net5.0\ref\DanToCompany.dll
+D:\C#\asm advance\DanToProject\bin\Debug\net5.0\DanToCompany.pdb
+D:\C#\asm advance\DanToProject\obj\Debug\net5.0\DanToCompany.csprojAssemblyReference.cache
+D:\C#\asm advance\DanToProject\obj\Debug\net5.0\DanToCompany.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\asm advance\DanToProject\obj\Debug\net5.0\DanToCompany.AssemblyInfoInputs.cache
+D:\C#\asm advance\DanToProject\obj\Debug\net5.0\DanToCompany.AssemblyInfo.cs
+D:\C#\asm advance\DanToProject\obj\Debug\net5.0\DanToCompany.csproj.CoreCompileInputs.cache
+D:\C#\asm advance\DanToProject\obj\Debug\net5.0\DanToCompany.dll
+D:\C#\asm advance\DanToProject\obj\Debug\net5.0\ref\DanToCompany.dll
+D:\C#\asm advance\DanToProject\obj\Debug\net5.0\DanToCompany.pdb
+D:\C#\asm advance\DanToProject\obj\Debug\net5.0\DanToCompany.genruntimeconfig.cache
